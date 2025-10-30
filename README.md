@@ -35,13 +35,6 @@ However, it can be retrieved directly from the official **General Social Survey 
 🔗 [https://gss.norc.org/](https://gss.norc.org/)  
 or obtained through the **Canvas assignment page** associated with this course.  
 
-The data files required to reproduce the results are:
-- `X_trn.csv`  
-- `y_trn.csv`  
-- `X_test.csv`  
-
-These should be placed locally in a `data/` folder when running the notebook.
-
 ---
 
 ## 🧑‍🎓 Authors
