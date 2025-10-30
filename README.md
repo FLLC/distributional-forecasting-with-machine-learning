@@ -4,7 +4,7 @@ This repository contains the code and report for our **Machine Learning in Econo
 The goal of the project is to build a *distributional predictive model* — estimating the full conditional distribution of real income (`p(y|x)`) rather than just its expected value.
 
 📄 [View the full report (PDF)](report/Machine_Learning_Report.pdf)  
-💻 [View the full code (Jupyter Notebook)](notebooks/qrf_model_implementation.ipynb)
+💻 [View the full code (Jupyter Notebook)]([notebooks/qrf_model_implementation.ipynb](https://github.com/FLLC/ml-econometrics-distributional-modeling/blob/main/notebooks/qrf_model_implementation.ipynb))
 
 ---
 
