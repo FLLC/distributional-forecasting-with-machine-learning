@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ======================================================
+# Custom ignores for Machine Learning in Econometrics
+# ======================================================
+
+# Data and sensitive files (never push datasets)
+data/
+*.csv
+*.txt
+*.npy
+*.npz
+*.pkl
+*.parquet
+*.feather
+*.xlsx
+*.sav
+
+# Model artifacts and results
+results/
+predictions/
+figures/
+outputs/
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
