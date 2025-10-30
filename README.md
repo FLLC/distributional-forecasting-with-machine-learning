@@ -46,5 +46,7 @@ or obtained through the **Canvas assignment page** associated with this course.
 - Emre Cekin  
 - Danyl Sol  
 
-Ferran Llorca Mataix – primarily responsible for data preprocessing and visualisation, model building and training, completing the final analytical sub-questions, and writing the report.
+**Individual contribution – Ferran Llorca Mataix:**  
+Primarily responsible for data preprocessing and visualisation, model building and training, completing the final analytical sub-questions, and writing the report.
+
 ---
