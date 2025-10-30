@@ -13,7 +13,7 @@ The goal of the project is to build a *distributional predictive model* — esti
 We implemented a **Quantile Regression Forest (QRF)** model to predict the distribution of real income using data from the **General Social Survey (GSS)**.  
 The QRF approach provides a non-parametric, flexible way to estimate conditional quantiles, making it well-suited for skewed and heteroskedastic data.
 
-Our final model achieved a strong calibration and low CRPS (Continuous Ranked Probability Score), indicating accurate distributional predictions.
+Our final model achieved strong calibration and a lower Continuous Ranked Probability Score (CRPS) than the baseline model (OLS with fixed variance but varying mean per observation), indicating more accurate distributional predictions.
 
 Key features modeled include:
 - Year of survey  
@@ -46,4 +46,6 @@ or obtained through the **Canvas assignment page** associated with this course.
 - Emre Cekin  
 - Danyl Sol  
 
+Individual contribution (Ferran Llorca Mataix):
+I was primarily responsible for data preprocessing and visualisation, model building and training, completing the final analytical sub-questions, and writing the report.
 ---
