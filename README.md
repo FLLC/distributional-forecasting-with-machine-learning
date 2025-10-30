@@ -24,10 +24,6 @@ Key features modeled include:
 
 ---
 
-## 🧠 Repository Contents
-
----
-
 ## ⚙️ Data Availability
 
 The dataset used in this project **cannot be shared publicly** due to **University restrictions**.  
